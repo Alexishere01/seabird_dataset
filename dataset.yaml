@@ -1,0 +1,5 @@
+path: /home/azuritacerez2020@ad.fau.edu/seabird_dataset
+train: images/train
+val: images/val
+nc: 3
+names: ['red_buoy', 'green_buoy', 'blue_buoy']
